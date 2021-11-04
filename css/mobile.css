@@ -123,8 +123,8 @@ nav ul li a:hover {
 }
 
 .contact-form form {
-    margin-left: 20px;
-    text-align: right;
+    margin-left: 15%;
+    text-align: left;
 }
 
 .contact-form form .form-control {
@@ -139,4 +139,8 @@ nav ul li a:hover {
     margin-top: 15px;
     color: #58462c;
     padding: 2px 30px;
+}
+
+.contact-form input {
+    width: 70%;
 }
