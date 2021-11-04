@@ -7,7 +7,7 @@ body {
 
 .container {
     width: 90%;
-    padding: 20px;
+    padding: 0px;
     justify-content: space-between;
 }
 
@@ -114,7 +114,6 @@ nav ul li a:hover {
     background-color: #58462c;
     color: #fff;
     display: flex;
-    flex-direction: column;
     justify-content: center;
 }
 
