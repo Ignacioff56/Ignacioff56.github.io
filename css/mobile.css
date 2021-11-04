@@ -114,11 +114,13 @@ nav ul li a:hover {
     background-color: #58462c;
     color: #fff;
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
 #footer-contact .contact-data {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 
@@ -142,5 +144,5 @@ nav ul li a:hover {
 }
 
 .contact-form input {
-    width: 70%;
+    width: 90%;
 }
